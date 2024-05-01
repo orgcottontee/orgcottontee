@@ -4,7 +4,7 @@ Hope you're well - thanks for dropping by.
 
 I'm just someone who appreciates fashion, enjoys tennis, likes to exercise, and...oh, probably the reason you're here reading this, looking for her first full-time role as a software engineer. I stumbled into iOS development and enjoyed every second (including all the rough days), and I haven't looked back since. I'm always thinking of how to grow and learn more than I did yesterday. 
 
-I'm currently working on the second 90% for my JingPin app, with a goal of submitting it to the app store within 2 weeks. 
+I'm currently working on the second 90% for my JingPin app, with a goal of submitting it to the app store soon. 
 
 <!--
 **orgcottontee/orgcottontee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
