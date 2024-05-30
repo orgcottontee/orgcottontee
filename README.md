@@ -2,9 +2,7 @@
 
 Hope you're well - thanks for dropping by.
 
-I'm just someone who appreciates fashion, enjoys tennis, likes to exercise, and...oh, probably the reason you're here reading this, looking for her first full-time role as a software engineer. I stumbled into iOS development and enjoyed every second (including all the rough days), and I haven't looked back since. I'm always thinking of how to grow and learn more than I did yesterday. 
-
-I'm currently working on the second 90% for my JingPin app, with a goal of submitting it to the app store soon. 
+I'm someone who appreciates fashion, enjoys tennis, likes to exercise, and is looking for her first full-time role as a software engineer. I stumbled into iOS development and enjoyed every second (including all the rough days), and I haven't looked back since. I'm always striving to grow and learn more than I did yesterday. 
 
 <!--
 **orgcottontee/orgcottontee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +10,7 @@ I'm currently working on the second 90% for my JingPin app, with a goal of submi
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -24,9 +23,9 @@ Here are some ideas to get you started:
 ## JINGPIN app
 Your go-to app for discovering a curated list of concept stores and boutiques. Save your favorite boutiques, add notes for each boutique, and suggest boutiques to be added to the growing list. The initial release will include boutiques in the United States. 
 
-| Browse	                            | Explore                             | Discover                                    |
-| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-| ![list](https://github.com/orgcottontee/orgcottontee/assets/86264121/d29ed1a8-6a7c-44eb-bcdc-59d402f47f77) | ![map](https://github.com/orgcottontee/orgcottontee/assets/86264121/4e485fa7-aa74-4650-99f8-9ce0c8eba2de) | ![detail](https://github.com/orgcottontee/orgcottontee/assets/86264121/10881cd7-f673-46ae-8d7e-da83031344b7) |
+| Browse	                            | Explore                             | Discover                            |
+| ----------------------------------- | ----------------------------------- | ----------------------------------- |
+|![1](https://github.com/orgcottontee/orgcottontee/assets/86264121/305a3b31-1635-4e6d-a013-c89d9f7827ba)|![2](https://github.com/orgcottontee/orgcottontee/assets/86264121/c83ba2f7-e55d-4b2e-889f-8f256d4656c9)|![3](https://github.com/orgcottontee/orgcottontee/assets/86264121/8b286f11-7d4e-41f3-9e6f-f00dd16528b1)|
 
 ### Highlights
 - Store and fetch data from CloudKit
@@ -37,11 +36,6 @@ Your go-to app for discovering a curated list of concept stores and boutiques. S
 - Discover boutiques in a map view
 - Open Apple Maps for navigation
 - Share the app and spread the word
-
-### Upcoming...
-- Dynamic size and accessibility
-- Unit & UI tests
-- Custom errors
 
 
 ## MUKAE MÜZ app
