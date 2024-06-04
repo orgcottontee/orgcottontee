@@ -21,31 +21,30 @@ Here are some ideas to get you started:
 -->
 
 ## JINGPIN app
-Your go-to app for discovering a curated list of concept stores and boutiques. Save your favorite boutiques, add notes for each boutique, and suggest boutiques to be added to the growing list. The initial release will include boutiques in the United States. 
+[JingPin](https://apps.apple.com/us/app/jingpin/id6502470376) is your go-to app for discovering a curated list of concept stores and boutiques. 
 
 | Browse	                            | Explore                             | Discover                            |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- |
 |![1](https://github.com/orgcottontee/orgcottontee/assets/86264121/305a3b31-1635-4e6d-a013-c89d9f7827ba)|![2](https://github.com/orgcottontee/orgcottontee/assets/86264121/c83ba2f7-e55d-4b2e-889f-8f256d4656c9)|![3](https://github.com/orgcottontee/orgcottontee/assets/86264121/8b286f11-7d4e-41f3-9e6f-f00dd16528b1)|
 
 ### Highlights
-- Store and fetch data from CloudKit
-- SwiftData & iCloud to save favorites and add notes for each boutique
-- Submit a suggestion to add to the growing list
-- Filter on main screen by State (for United States release)
-- Search boutique name on main screen
-- Discover boutiques in a map view
-- Open Apple Maps for navigation
-- Share the app and spread the word
+- Utilize CloudKit for data storage and retrieval
+- Leverage SwiftData & iCloud for saving favorites and adding Notes for each boutique
+- Facilitate user engagement by providing a feature for submitting suggestions to expand the list of boutiques worldwide.
+- Implement State-based filtering for the United States release.
+- Integrate search functionality for boutique names.
+- Explore boutiques via map view using MapKit.
+- Seamless navigation with Apple Maps integration.
 
 
 ## MUKAE MÜZ app
-An app as an archive to showcase products from my online apparel boutique, [MUKAE MÜZ](www.mukaemuz.co).
+An app serving as an archive to exhibit products from my online apparel boutique, [MUKAE MÜZ](https://www.mukaemuz.co).
 
-| Welcome	                            | Shop                                | Save                                        |
+| Welcome | Shop | Save |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
 | ![mm](https://github.com/orgcottontee/orgcottontee/assets/86264121/8b790e6b-2e60-4db5-a7a0-ce7fc85cfa4a) | ![products](https://github.com/orgcottontee/orgcottontee/assets/86264121/c6b58d4e-e8a1-42c0-a8b6-d23346cf6cd4) | ![favlist](https://github.com/orgcottontee/orgcottontee/assets/86264121/2fe85be6-1bc1-4bda-b746-d4fb71005965) |
 
 ### Highlights
-- Fetch data from Shopify GraphQL via Apollo GraphQL
-- SwiftData to save products
-- Link to web store from each product to continue shopping
+- Retrieve data from Shopify GraphQL using Apollo GraphQL.
+- Implement SwiftData to store favorite products in a dedicated list.
+- Enable in-app Safari for users to seamlessly continue shopping.
