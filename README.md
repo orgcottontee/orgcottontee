@@ -1,8 +1,6 @@
 ### Hey.
 
-Hope you're well - thanks for dropping by.
-
-I'm someone who appreciates fashion, enjoys tennis, likes to exercise, and is looking for her first full-time role as a software engineer. I stumbled into iOS development and enjoyed every second (including all the rough days), and I haven't looked back since. I'm always striving to grow and learn more than I did yesterday. 
+Thanks for dropping by.
 
 <!--
 **orgcottontee/orgcottontee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
