@@ -1,6 +1,4 @@
-### Hey.
-
-Thanks for dropping by.
+### Hello, thanks for dropping by.
 
 <!--
 **orgcottontee/orgcottontee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Support & Operations Professional. </br>
+I'm currently curious about SQL. </br>
+Lifelong learner. </br>
+Ask me about fashion. </br>
+Tennis enthusiast. </br>
+
+I aimed to release an app to apply my iOS skills, so I built one associated with my interest in fashion. It is a curated list of boutiques and concept stores, offering an alternative to standard map lists. Please check it out below!
+
 ## JINGPIN app
 [JingPin](https://apps.apple.com/us/app/jingpin/id6502470376) is your go-to app for discovering a curated list of concept stores and boutiques. 
 
@@ -34,9 +40,10 @@ Here are some ideas to get you started:
 - Explore boutiques via map view using MapKit.
 - Seamless navigation with Apple Maps integration.
 
+[Download](https://apps.apple.com/us/app/jingpin/id6502470376) it in the app store!
 
 ## MUKAE MÜZ app
-An app serving as an archive to exhibit products from my online apparel boutique, [MUKAE MÜZ](https://www.mukaemuz.co).
+An app serving as an archive to exhibit products from my online apparel boutique, [MUKAE MÜZ](https://www.mukaemuz.co). This is a WIP.
 
 | Welcome | Shop | Save |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
