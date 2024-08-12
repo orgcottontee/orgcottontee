@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Support & Operations Professional. </br>
+Support, Operations, & Logistics Professional. </br>
 I'm currently curious about SQL. </br>
 Lifelong learner. </br>
 Ask me about fashion. </br>
