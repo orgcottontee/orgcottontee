@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Support, Operations, & Logistics Professional. </br>
-I'm currently curious about SQL. </br>
-Lifelong learner. </br>
-Ask me about fashion. </br>
-Tennis enthusiast. </br>
+Customer Experience | Operations | Driving Success & Engagement. </br>
+Currently curious about SQL. </br>
+Sports & Fitness enthusiast (tennis tennis tennis). </br>
 
-I aimed to release an app to apply my iOS skills, so I built one associated with my interest in fashion. It is a curated list of boutiques and concept stores, offering an alternative to standard map lists. Please check it out below!
+I developed an app to apply my iOS skills. It features a curated selection of boutiques and concept stores, providing a unique alternative to conventional map lists. Check it out below!
 
 ## JINGPIN app
 [JingPin](https://apps.apple.com/us/app/jingpin/id6502470376) is your go-to app for discovering a curated list of concept stores and boutiques. 
