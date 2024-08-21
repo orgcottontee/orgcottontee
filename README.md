@@ -20,7 +20,7 @@ Customer Experience | Operations | Driving Success & Engagement. </br>
 Currently curious about SQL. </br>
 Sports & Fitness enthusiast (tennis tennis tennis). </br>
 
-I developed an app to apply my iOS skills. It features a curated selection of boutiques and concept stores. I love finding new designers and boutiques, so I wanted to create a unique alternative to conventional map lists. Check it out below!
+I developed an app which features a curated selection of boutiques and concept stores. I love finding new designers and boutiques, so I wanted to create a unique alternative to conventional map lists. Check it out below!
 
 ## JINGPIN app
 [JingPin](https://apps.apple.com/us/app/jingpin/id6502470376) is your go-to app for discovering a curated list of concept stores and boutiques. 
