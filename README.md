@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 Customer Experience | Operations | Driving Success & Engagement. </br>
-Currently curious about SQL. </br>
 Sports & Fitness enthusiast (tennis tennis tennis). </br>
 
 I developed an app which features a curated selection of boutiques and concept stores. I love finding new designers and boutiques, so I wanted to create a unique alternative to conventional map lists. Check it out below!
